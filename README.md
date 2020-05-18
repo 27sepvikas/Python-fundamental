@@ -1,2 +1,2 @@
-# Python-fundamental
+# Python-fundamentals and Financial analysis 
 Fundamentals 
